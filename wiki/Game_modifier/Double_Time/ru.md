@@ -47,16 +47,16 @@ Double time считается одним из лучших модов для п
 
 В [osu!catch](/wiki/Game_mode/osu!catch) отсутствует OD, из-за чего этот мод увеличивает только BPM и AR. В результате, он увеличивает множитель очков только на 1.06х, а не на 1.12х, как делают остальные моды.
 
+// TODO: find out what exactly this means
 Although this mod does greatly increase the hyperdash leniency, making fruits require hyperdashes that are near impossible to catch in some cases.
 
-## Trivia
+## Интересные факты
+- При включенном Double Time, значения `Длина`, `BPM`, and `Объекты` выделяются светло-красным. (Показано ниже.)
+  - `Объекты` выделяются светло-красным несмотря на то, что данное значение не меняется.
+- Рядом со значениями `CS`, `AR` и `HP` появляется треугольник в верхнем индексе, показывающий небольшое увеличение значений. (Показано ниже.)
+- Название "Double Time" может быть названо ошибочным, так как Double Time увеличивает скорость карты не в 2 раза (200%), а в 1.5х (150%).
 
-- When the Double Time mod is enabled, the `Length`, `BPM`, and `Objects` values are coloured in a light red with the new values. (Pictured below.)
-  - The `Objects` value is coloured a light red even though no change in value is actually made.
-- The `CS`, `AR`, and `HP` values will have a superscript triangle next to their values indicate a small increase in their values. (Pictured below.)
-- The name "Double Time" could be labelled as a misnomer, as the DT mod does not actually increase the speed of a beatmap by two times (200%); it speeds up beatmaps by 1.5x (150%).
-
-![Changed values](img/GM_DT.jpg "Screenshot of beatmap values being changed by the Double Time mod")
+![Изменённые значения](img/GM_DT.jpg "Снимок экрана со значениями карты, изменёнными модом Double Time")
 
 [osu!]: /wiki/shared/mode/osu.png "osu!"
 [osu!taiko]: /wiki/shared/mode/taiko.png "osu!taiko"
